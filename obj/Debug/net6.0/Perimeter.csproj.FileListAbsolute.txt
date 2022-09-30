@@ -1,0 +1,15 @@
+C:\Users\Арсений\source\repos\Perimeter\Perimeter\bin\Debug\net6.0\Perimeter.exe
+C:\Users\Арсений\source\repos\Perimeter\Perimeter\bin\Debug\net6.0\Perimeter.deps.json
+C:\Users\Арсений\source\repos\Perimeter\Perimeter\bin\Debug\net6.0\Perimeter.runtimeconfig.json
+C:\Users\Арсений\source\repos\Perimeter\Perimeter\bin\Debug\net6.0\Perimeter.dll
+C:\Users\Арсений\source\repos\Perimeter\Perimeter\bin\Debug\net6.0\Perimeter.pdb
+C:\Users\Арсений\source\repos\Perimeter\Perimeter\obj\Debug\net6.0\Perimeter.csproj.AssemblyReference.cache
+C:\Users\Арсений\source\repos\Perimeter\Perimeter\obj\Debug\net6.0\Perimeter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Арсений\source\repos\Perimeter\Perimeter\obj\Debug\net6.0\Perimeter.AssemblyInfoInputs.cache
+C:\Users\Арсений\source\repos\Perimeter\Perimeter\obj\Debug\net6.0\Perimeter.AssemblyInfo.cs
+C:\Users\Арсений\source\repos\Perimeter\Perimeter\obj\Debug\net6.0\Perimeter.csproj.CoreCompileInputs.cache
+C:\Users\Арсений\source\repos\Perimeter\Perimeter\obj\Debug\net6.0\Perimeter.dll
+C:\Users\Арсений\source\repos\Perimeter\Perimeter\obj\Debug\net6.0\refint\Perimeter.dll
+C:\Users\Арсений\source\repos\Perimeter\Perimeter\obj\Debug\net6.0\Perimeter.pdb
+C:\Users\Арсений\source\repos\Perimeter\Perimeter\obj\Debug\net6.0\Perimeter.genruntimeconfig.cache
+C:\Users\Арсений\source\repos\Perimeter\Perimeter\obj\Debug\net6.0\ref\Perimeter.dll
